@@ -1,0 +1,3 @@
+# Netlify redirects file for SPA fallback routing.
+# Static files in the directory will still be served first by Netlify.
+/*  /index.html  200
